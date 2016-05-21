@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1463801465 source:e:\codeblocks\newton_interpolation\main.c
+	<stdio.h>
+	<stdlib.h>
+
